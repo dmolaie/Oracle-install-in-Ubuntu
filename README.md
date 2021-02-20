@@ -147,7 +147,7 @@ Reemplazamos USERNAME y PASSWORD con el usuario y contraseña que hayamos elejid
 
 
 
-
+# unistall oracle-xe
 ***************************************unistall oracle-xe*************************************
 
 # /etc/init.d/oracle-xe stop
