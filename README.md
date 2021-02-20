@@ -145,8 +145,8 @@ Reemplazamos USERNAME y PASSWORD con el usuario y contraseña que hayamos elejid
 # sqlplus
 
 
-it's over! if usefull pleas make a star this repository
-thanks.
+it is finished! If useful, please give this repository a star.
+Thankful
 
 
 
