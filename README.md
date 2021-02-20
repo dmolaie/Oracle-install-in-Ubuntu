@@ -145,6 +145,10 @@ Reemplazamos USERNAME y PASSWORD con el usuario y contraseña que hayamos elejid
 # sqlplus
 
 
+it's over! if usfull pleas make a star this repository
+thanks.
+
+
 
 
 # unistall oracle-xe
