@@ -149,7 +149,8 @@ it is finished! If useful, please give this repository a star.
 Thankful
 
 
-
+# change passwod database oracle:
+sqlplus ->  ALTER USER USER_NAME ACCOUNT UNLOCK;   &&  conn username/password;  eter new password
 
 # unistall oracle-xe
 ***************************************unistall oracle-xe*************************************
