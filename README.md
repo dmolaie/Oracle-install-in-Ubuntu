@@ -150,7 +150,7 @@ Thankful
 
 
 # change passwod database oracle:
-sqlplus ->  ALTER USER USER_NAME ACCOUNT UNLOCK;   &&  conn username/password;  eter new password
+sqlplus -> ALTER USER DBname  IDENTIFIED BY 123456 ACCOUNT UNLOCK; 
 
 # unistall oracle-xe
 ***************************************unistall oracle-xe*************************************
